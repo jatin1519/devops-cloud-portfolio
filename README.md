@@ -67,15 +67,6 @@ automation, containerization, and cloud infrastructure.
 
 ---
 
-## 🎯 What This Portfolio Demonstrates
-- Real-world DevOps workflows
-- Cloud infrastructure automation
-- Container-based application deployment
-- CI/CD pipeline implementation
-- Linux and automation skills
-
----
-
 ## 📫 Contact
 
 **Email:** eng.jjatin@gmail.com  
