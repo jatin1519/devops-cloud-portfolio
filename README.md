@@ -70,5 +70,5 @@ automation, containerization, and cloud infrastructure.
 ## 📫 Contact
 
 **Email:** eng.jjatin@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/iamrajpoot-learner-05487521a  
+- **LinkedIn:** www.linkedin.com/in/lalita-rajpoot-05487521a
 - **GitHub:** https://github.com/jatin1519
